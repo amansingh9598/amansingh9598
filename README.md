@@ -61,7 +61,7 @@ I enjoy transforming ideas into real-world products using modern frontend and ba
 
 **Also experienced with:**
 
-`MongoDB` `Mongoose`
+`MongoDB` `Mongoose` `MySQL`
 
 ### 🔧 Tools & Platforms
 
@@ -145,9 +145,48 @@ A web platform designed to help students and travelers discover accommodation op
 🔗 **[View Repository](https://github.com/amansingh9598/StayNexo)**
 
 
+# 🏆 Achievements
+
+- 🎯 **GDG On Campus Organizer** — BNCET
+- 🥈 **Silver Medalist** — College Ideathon
+- 🥈 **Two-Time Silver Medalist** — College Kabaddi
+- 💻 **MERN Stack Web Development** — Apna College
+- 🤖 **Robotics & Innovation Program Participant** — Era Foundation & AKTU
+- 🎨 **Head, College Graphic Design Team** — Led a team of 5 designers at Aarambh
+
+
+```markdown
+# 📈 My Development Journey
+
+```text
+🌐 HTML5 + CSS3
+        ↓
+⚡ JavaScript (ES6+)
+        ↓
+⚛️ React.js + Redux Toolkit
+        ↓
+🟢 Node.js + Express.js
+        ↓
+🍃 MongoDB + Mongoose
+        ↓
+🔐 REST APIs + JWT Authentication
+        ↓
+🚀 Full-Stack MERN Applications
+        ↓
+🔧 Git + GitHub + Postman
+        ↓
+☁️ Cloud Deployment & AWS
+        ↓
+🔷 TypeScript
+        ↓
+🏗️ Backend Architecture & Optimization
+        ↓
+📐 System Design
+
 
 # 💼 What I Can Build
 
+```text
 Frontend Development
        ↓
 React.js • Redux • Tailwind CSS • Responsive UI
@@ -167,3 +206,5 @@ JWT • Cookies • Role-Based Access
 Deployment
        ↓
 GitHub • Render • Cloud Services
+
+
