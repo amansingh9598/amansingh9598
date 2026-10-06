@@ -155,7 +155,7 @@ A web platform designed to help students and travelers discover accommodation op
 - 🎨 **Head, College Graphic Design Team** — Led a team of 5 designers at Aarambh
 
 
-```markdown
+
 # 📈 My Development Journey
 
 ```text
