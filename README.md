@@ -144,6 +144,8 @@ A web platform designed to help students and travelers discover accommodation op
 
 🔗 **[View Repository](https://github.com/amansingh9598/StayNexo)**
 
+---
+
 
 # 💼 What I Can Build
 
@@ -196,8 +198,8 @@ A web platform designed to help students and travelers discover accommodation op
 - Postman
 - Render
 - AWS
-  
-  ---
+
+---
 
   # 🏆 Achievements
 
@@ -208,13 +210,13 @@ A web platform designed to help students and travelers discover accommodation op
 - 🤖 **Robotics & Innovation Program Participant** — Era Foundation & AKTU
 - 🎨 **Head, College Graphic Design Team** — Led a team of 5 designers at Aarambh
 
-  ---
+---
 
   # 📚 Currently Learning
 
 `TypeScript` ` AWS`  `Redis` ` Docker` ` System Design`
 
- ---
+---
  
 # 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amansingh9598&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh9598&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=amansingh9598&theme=tokyonight&hide_border=true" /> </p>
