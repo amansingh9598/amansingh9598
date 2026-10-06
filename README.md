@@ -145,7 +145,61 @@ A web platform designed to help students and travelers discover accommodation op
 🔗 **[View Repository](https://github.com/amansingh9598/StayNexo)**
 
 
-# 🏆 Achievements
+# 💼 What I Can Build
+
+## 🎨 Frontend Development
+
+- React.js
+- Redux Toolkit
+- Tailwind CSS
+- Bootstrap
+- Responsive UI
+- Reusable Components
+- API Integration
+- Frontend Optimization
+
+  
+## ⚙️ Backend Development
+
+- Node.js
+- Express.js
+- REST APIs
+- MVC Architecture
+- CRUD Operations
+- API Integration
+- Backend Optimization
+- Error Handling
+
+## 🗄️ Database Development
+
+- MongoDB
+- Mongoose
+- MySQL
+- Schema Design
+- Database Operations
+- Data Validation
+  
+## 🔐 Authentication & Security
+
+- JWT Authentication
+- HTTP-Only Cookies
+- Role-Based Access
+- Password Hashing
+- Joi Validation
+- Authentication
+- Authorization
+  
+## ☁️ Deployment & Development Tools
+
+- Git
+- GitHub
+- Postman
+- Render
+- AWS
+  
+  ---
+
+  # 🏆 Achievements
 
 - 🎯 **GDG On Campus Organizer** — BNCET
 - 🥈 **Silver Medalist** — College Ideathon
@@ -154,7 +208,25 @@ A web platform designed to help students and travelers discover accommodation op
 - 🤖 **Robotics & Innovation Program Participant** — Era Foundation & AKTU
 - 🎨 **Head, College Graphic Design Team** — Led a team of 5 designers at Aarambh
 
+  ---
 
+  # 📚 Currently Learning
+
+`TypeScript` ` AWS`  `Redis` ` Docker` ` System Design`
+
+ ---
+ 
+# 📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amansingh9598&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh9598&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=amansingh9598&theme=tokyonight&hide_border=true" /> </p>
+
+---
+
+# 🤝 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/aman-singh-a2204b297/"> <img src="https://img.shields.io/badge/LinkedIn-Aman%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/amansingh9598"> <img src="https://img.shields.io/badge/GitHub-Aman%20Singh-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:amansinghas956531@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+
+<p align="center"> <i>💡 Building ideas into scalable and user-focused web applications.</i> </p> <p align="center"> ⭐ If you find my projects useful, consider giving them a star! </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer" width="100%"/> </p>
+
+---
 
 # 📈 My Development Journey
 
@@ -182,29 +254,3 @@ A web platform designed to help students and travelers discover accommodation op
 🏗️ Backend Architecture & Optimization
         ↓
 📐 System Design
-
-
-# 💼 What I Can Build
-
-```text
-Frontend Development
-       ↓
-React.js • Redux • Tailwind CSS • Responsive UI
-
-Backend Development
-       ↓
-Node.js • Express.js • REST APIs
-
-Database
-       ↓
-MongoDB • Mongoose
-
-Authentication
-       ↓
-JWT • Cookies • Role-Based Access
-
-Deployment
-       ↓
-GitHub • Render • Cloud Services
-
-
